@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { useParams } from "react-router-dom";
 import "./Reservar.css";
+//RECALCO EN ESTA PARTE DEL CODIGO QUE NO SE PODIA SUBIR TODO EL PROYECTO CON IMAGENES 
 
 const Reservar = () => {
   const { id } = useParams();
